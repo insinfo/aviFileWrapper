@@ -1,0 +1,4 @@
+C:\Users\Isaque\Desktop\aviFileWrapper_src\bin\Release\AviFile.dll
+C:\Users\Isaque\Desktop\aviFileWrapper_src\obj\Release\AviFile.dll
+C:\MySoftwareProjects\aviFileWrapper_src\bin\Release\AviFile.dll
+C:\MySoftwareProjects\aviFileWrapper_src\obj\Release\AviFile.dll

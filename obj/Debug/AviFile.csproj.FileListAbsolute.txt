@@ -1,0 +1,4 @@
+C:\Users\Isaque\Desktop\aviFileWrapper_src\bin\Debug\AviFile.dll
+C:\Users\Isaque\Desktop\aviFileWrapper_src\bin\Debug\AviFile.pdb
+C:\Users\Isaque\Desktop\aviFileWrapper_src\obj\Debug\AviFile.dll
+C:\Users\Isaque\Desktop\aviFileWrapper_src\obj\Debug\AviFile.pdb
